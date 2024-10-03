@@ -1,1 +1,3 @@
-A small project by Biasolo Riccardo and Croci Lorenzo 🐟
+Ciao!
+We’re Pescetti, and we make things with bits.
+
