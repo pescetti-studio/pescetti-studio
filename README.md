@@ -1,4 +1,2 @@
 ### 🐟 **Ciao!**
-We’re Pescetti, and we make things with bits.
-
-- https://patreon.com/PescettiStudio
+We’re _[Pescetti](https://patreon.com/PescettiStudio)_, and we make things with bits.
