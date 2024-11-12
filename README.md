@@ -12,4 +12,4 @@ We’re a small collective, and we make things with bits :)
 > [!TIP]
 > If you like what we’re doing, you can follow us **FOR FREE** on [Patreon](https://www.patreon.com/c/PescettiStudio/posts) for early updates and exclusive content!
 
-- 📫 How to reach us: [mail](pescettistudio@gmail.com) & [Twitter/X](https://x.com/pescetti_studio)
+- 📫 How to reach us: [E-mail](pescettistudio@gmail.com) & [Twitter/X](https://x.com/pescetti_studio)
