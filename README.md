@@ -10,6 +10,6 @@ We’re a small collective, and we make things with bits :)
 - ❗ And there’s a lot more coming over the next few weeks.
 
 > [!TIP]
-> If you like what we’re doing, you can follow us **FOR FREE** on [Patreon](https://www.patreon.com/c/PescettiStudio/posts) for updates and exclusive content!
+> If you like what we’re doing, you can follow us **FOR FREE** on [Patreon](https://www.patreon.com/c/PescettiStudio/posts) for early updates and exclusive content!
 
 - 📫 How to reach us: [mail](pescettistudio@gmail.com) & [Twitter/X](https://x.com/pescetti_studio)
