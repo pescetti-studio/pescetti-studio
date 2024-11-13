@@ -13,4 +13,4 @@ We’re a small collective, and we make things with bits :)
 > If you like what we’re doing, you can follow us **FOR FREE** on [Patreon](https://www.patreon.com/c/PescettiStudio/posts) for early updates and exclusive content!
 > even a “_simple_” follow really helps keep these projects free and open source. Thanks :)
 
-- 📫 How to reach us: [E-mail](pescettistudio@gmail.com) & [Twitter/X](https://x.com/pescetti_studio)
+- 📫 How to reach us _(even just to say hi or insult us)_: [E-mail](pescettistudio@gmail.com) & [Twitter/X](https://x.com/pescetti_studio)
