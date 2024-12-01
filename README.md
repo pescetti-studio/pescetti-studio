@@ -14,3 +14,6 @@ We’re a small collective, and we make things with bits :)
 > even a “_simple_” follow really helps keep these projects free and open source. Thanks :)
 
 - 📫 How to reach us _(even just to say hi or insult us)_: [E-mail](pescettistudio@gmail.com) & [Twitter/X](https://x.com/pescetti_studio)
+
+> If you hate money, you can consider making a donation on [PayPal](https://paypal.me/PescettiStudio?country.x=IT&locale.x=it_IT) </br>
+> It really helps us keep everything free and open source for everyone :)
